@@ -201,6 +201,7 @@ This report may be revised and updated continuously based on new evidence, exper
 * 詳細データ
 * 計算ログ
 * AI出力ログ
+(./log.md)
 * 実験条件
 * 補足資料
 
